@@ -1,5 +1,5 @@
 <div align='center'>
 	<picture>
-		<img src='./images/gongoCrystalWide.gif' />
+		<img src='https://gongo.tv/opengraph.avif' />
 	</picture>
 </div>
